@@ -1,4 +1,4 @@
-### 👋 About Me
+## 👋 About Me
 
 - 🔭 I’m currently a **3rd-year student at PJAIT (Polish-Japanese Academy of Information Technology)**
 - 🌱 I’m currently learning **web development** (React, Spring Boot, SQL)
