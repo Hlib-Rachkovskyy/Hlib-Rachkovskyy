@@ -1,4 +1,8 @@
-## Hi there 👋
+### 👋 About Me
+
+- 🔭 I’m currently a **3rd-year student at PJAIT (Polish-Japanese Academy of Information Technology)**
+- 🌱 I’m currently learning **web development** (React, Spring Boot, SQL)
+- 👀 Actively seeking **internship opportunities** in back-end or full-stack development
 
 <!--
 **Hlib-Rachkovskyy/Hlib-Rachkovskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
