@@ -1,5 +1,5 @@
-# 👋 About Me
-
+# 👋 Hi there
+I'm Hlib Rachkovskyy and here's some info about me:
 - 🔭 I’m currently a **3rd-year student at PJAIT**
 - 🌱 I’m currently learning **web development** (React, Spring Boot, SQL)
 - 👀 Actively seeking **internship opportunities** in back-end or full-stack development
