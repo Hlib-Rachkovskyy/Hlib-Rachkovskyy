@@ -1,8 +1,7 @@
-# 👋 Hi there
-I'm Hlib, and here's some info about me:
-- 🔭 I’m currently a **4th-year student at PJAIT**
-- 🌱 I’m currently learning **web development** (React, Spring Boot, ASP .NET, SQL)
-- 👀 Actively seeking **internship opportunities** in back-end or full-stack development
+# Hi I'm Hlib
+- 🔭 I'm a software engineer from Warsaw
+- 💬 Right now I'm tinkering on... Tour Management SaaS
+- ✨ I'm passionate about cloud, clean architecture, Java, and music 
 
 <!--
 **Hlib-Rachkovskyy/Hlib-Rachkovskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
