@@ -1,4 +1,4 @@
-# Hi I'm Hlib
+# Hi! I'm Hlib
 - 🔭 I'm a software engineer from Warsaw
 - 💬 Right now I'm tinkering on... Tour Management SaaS
 - ✨ I'm passionate about cloud, clean architecture, Java, and music 
