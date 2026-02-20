@@ -1,7 +1,8 @@
 # Hi! I'm Hlib
-- 🔭 I'm a software engineer from Warsaw
-- 💬 Right now I'm tinkering on... Tour Management SaaS
-- ✨ I'm passionate about cloud, clean architecture, Java, and music 
+-👋 Hi, I'm a Software Engineer based in Warsaw.
+-🏗️ Currently building: A Tour Management SaaS (turning travel logistics from chaos into clean code).
+-💻 Tech Stack & Interests: Java ecosystem, Cloud infrastructure, and fighting the good fight for Clean Architecture.
+-🎧 When I'm not coding: You'll probably find me listening to/playing music. Ask me what's on my playlist right now!
 
 <!--
 **Hlib-Rachkovskyy/Hlib-Rachkovskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
