@@ -3,7 +3,7 @@
 
 -🏗️ Currently building: A Tour Management SaaS (turning travel logistics from chaos into clean code).
 
--💻 Tech Stack & Interests: Java ecosystem, Cloud infrastructure, and fighting the good fight for Clean Architecture.
+-💻 Tech Stack & Interests: Java ecosystem, Cloud infrastructure, and Database Optimisation.
 
 -🎧 When I'm not coding: You'll probably find me listening to/playing music. Ask me what's on my playlist right now!
 
