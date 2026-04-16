@@ -7,7 +7,7 @@
   <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=9370DB&center=true&vCenter=true&width=900&height=40&lines=ASP+.NET+%7C+SQL+%7C+Spring+%7C+React" alt="Typing SVG" />
   <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=B19CD9&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Software+Architect+Enthusiast" alt="Typing SVG" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=B19CD9&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+AI+Enthusiast" alt="Typing SVG" /></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlib-rachkovskyy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-eta-liard.vercel.app/)
