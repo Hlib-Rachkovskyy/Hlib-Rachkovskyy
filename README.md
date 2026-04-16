@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlib-rachkovskyy/)
 [![Website](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hlib-Rachkovskyy)
 </div>
 
 ---
@@ -24,6 +23,41 @@
 
 -🎧 When I'm not coding: You'll probably find me listening to/playing music. Ask me what's on my playlist right now!
 
+---
+##  GitHub Stats
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hlib-Rachkovskyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omatheusmesmo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=omatheusmesmo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+---
+
+**💡 Open to collaboration and new challenges!**
+
+⭐ **Liked my work?** Consider starring my repositories!
+
+🤝 **Let's connect?** Feel free to follow me or reach out!
+
+</div>
 
 <!--
 **Hlib-Rachkovskyy/Hlib-Rachkovskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
