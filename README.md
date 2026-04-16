@@ -28,13 +28,8 @@
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hlib-Rachkovskyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hlib-Rachkovskyy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
