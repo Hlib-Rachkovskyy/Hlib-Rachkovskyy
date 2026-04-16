@@ -33,9 +33,6 @@
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hlib-Rachkovskyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hlib-Rachkovskyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
