@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there, I'm Hlib!
-
+---
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=A020F0&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Full-Stack" alt="Typing SVG" />
   <br/>
