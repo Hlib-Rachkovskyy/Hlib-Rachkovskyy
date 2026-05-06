@@ -17,7 +17,8 @@
 ---
 -👋 Hi, I'm a Software Engineer based in Warsaw.
 
--🏗️ Currently building: * **[latex-cv-orchestrator](https://github.com/Hlib-Rachkovskyy/latex-cv-orchestrator)** (Frontend | In Development) An automative CV generation platform using a 3-agent AI orchestration pattern. It uses already user-created components to generate a tailored LaTeX resume that showcases skills dynamically aligned with the target job description and optimized for ATS parsers.
+-🏗️ Currently building: **[latex-cv-orchestrator](https://github.com/Hlib-Rachkovskyy/latex-cv-orchestrator)** (Frontend | In Development) 
+An automative CV generation platform using a 3-agent AI orchestration pattern. It uses already user-created components to generate a tailored LaTeX resume that showcases skills dynamically aligned with the target job description and optimized for ATS parsers.
 
 -💻 Tech Stack & Interests: Java ecosystem, Cloud infrastructure, and Database Optimisation.
 
