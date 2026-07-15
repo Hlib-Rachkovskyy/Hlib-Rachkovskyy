@@ -41,8 +41,6 @@ An automative CV generation platform using a 3-agent AI orchestration pattern. I
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hlib-Rachkovskyy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
 </div>
 
 ---
